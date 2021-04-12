@@ -1,7 +1,8 @@
 #include <iostream>
 #include <string>
 
-int main(){
+int main()
+{
   std::string your_name;
   
   std::cout << "Please enter your name: ";
