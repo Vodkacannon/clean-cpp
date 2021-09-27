@@ -1,8 +1,8 @@
 class Person 
 {
-  private:
-    unsigned short age;
+private:
+  unsigned short age;
   
-  public:
-    void set_age(unsigned short age);
+public:
+  void set_age(unsigned short age);
 };
