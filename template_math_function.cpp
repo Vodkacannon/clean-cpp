@@ -1,6 +1,7 @@
 //WIP.
 
-template <typename T> add(T num_1, T num_2)
+template <typename T> 
+add(T num_1, T num_2)
 {
   return num_1 + num_2;
 }
