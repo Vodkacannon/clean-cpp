@@ -1,5 +1,4 @@
-class Person 
-{
+class Person {
 private:
   unsigned short age;
   
